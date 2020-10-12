@@ -1,5 +1,6 @@
 steps.md
 *.swp
+tags
 
 # dependencies
 /node_modules
